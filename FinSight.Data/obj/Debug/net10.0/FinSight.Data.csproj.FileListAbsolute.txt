@@ -1,0 +1,16 @@
+C:\Users\k\Desktop\Finsight\FinSight.Data\bin\Debug\net10.0\FinSight.Data.deps.json
+C:\Users\k\Desktop\Finsight\FinSight.Data\bin\Debug\net10.0\FinSight.Data.dll
+C:\Users\k\Desktop\Finsight\FinSight.Data\bin\Debug\net10.0\FinSight.Data.pdb
+C:\Users\k\Desktop\Finsight\FinSight.Data\bin\Debug\net10.0\FinSight.Models.dll
+C:\Users\k\Desktop\Finsight\FinSight.Data\bin\Debug\net10.0\FinSight.Models.pdb
+C:\Users\k\Desktop\Finsight\FinSight.Data\obj\Debug\net10.0\FinSight.Data.csproj.AssemblyReference.cache
+C:\Users\k\Desktop\Finsight\FinSight.Data\obj\Debug\net10.0\FinSight.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k\Desktop\Finsight\FinSight.Data\obj\Debug\net10.0\FinSight.Data.AssemblyInfoInputs.cache
+C:\Users\k\Desktop\Finsight\FinSight.Data\obj\Debug\net10.0\FinSight.Data.AssemblyInfo.cs
+C:\Users\k\Desktop\Finsight\FinSight.Data\obj\Debug\net10.0\FinSight.Data.csproj.CoreCompileInputs.cache
+C:\Users\k\Desktop\Finsight\FinSight.Data\obj\Debug\net10.0\FinSight.Data.sourcelink.json
+C:\Users\k\Desktop\Finsight\FinSight.Data\obj\Debug\net10.0\FinSight.9AC210DF.Up2Date
+C:\Users\k\Desktop\Finsight\FinSight.Data\obj\Debug\net10.0\FinSight.Data.dll
+C:\Users\k\Desktop\Finsight\FinSight.Data\obj\Debug\net10.0\refint\FinSight.Data.dll
+C:\Users\k\Desktop\Finsight\FinSight.Data\obj\Debug\net10.0\FinSight.Data.pdb
+C:\Users\k\Desktop\Finsight\FinSight.Data\obj\Debug\net10.0\ref\FinSight.Data.dll
