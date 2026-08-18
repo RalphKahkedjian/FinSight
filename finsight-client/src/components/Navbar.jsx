@@ -10,7 +10,7 @@ const [modal, setModal] = useState(null);
 
 const handleLogout = () => {
 
-```
+
 localStorage.removeItem("token");
 
 setModal({
@@ -21,7 +21,7 @@ setModal({
 setTimeout(() => {
   navigate("/login");
 }, 1200);
-```
+
 
 };
 

@@ -2,4 +2,4 @@ from pydantic import BaseModel
 
 class ChatResponse (BaseModel):
   response: str
-  transactions: list = []
+  transactions: list = [] 

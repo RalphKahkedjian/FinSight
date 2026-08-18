@@ -8,6 +8,7 @@ import Profile from "./pages/Profile";
 import ProtectedRoute from "./components/ProtectedRoute";
 import BenjyChat from "./components/BenjyChat";
 import Analytics from "./pages/Analytics";
+import Forecast from "./pages/Forecast";
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
           <Route path="/" element={<Analytics />} />
           <Route path="/transactions" element={<Transaction />} />
           <Route path="/transaction" element={<Transactions />} />
+          <Route path="/forecast" element={<Forecast />} />
           <Route path="/profile" element={<Profile />} />
         </Route>
 

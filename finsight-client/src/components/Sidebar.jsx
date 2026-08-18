@@ -14,6 +14,10 @@ name: "Transactions",
 path: "/transaction"
 },
 {
+  name: "Forecast",
+  path: "/forecast"
+},
+{
 name: "Profile",
 path: "/profile"
 }
